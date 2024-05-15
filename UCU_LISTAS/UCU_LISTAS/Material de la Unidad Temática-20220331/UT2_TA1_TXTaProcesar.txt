@@ -1,0 +1,6 @@
+Depuración de programas es el proceso de identificar y corregir errores de programación. 
+En inglés se le conoce como debugging, es que se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación. 
+Se dice que el término bug proviene de la época de los ordenadores de válvula termoiónica, en los cuales los problemas se generaban por los insectos que eran atraídos por las luces y estropeaban el equipo. 
+Si bien existen técnicas para la revisión sistemática del código fuente y se cuenta con medios computacionales para la detección de errores (depuradores) y facilidades integradas en los sistemas lower CASE y en los ambientes de desarrollo integrado, sigue siendo en buena medida una actividad manual, que desafía la paciencia, la imaginación y la intuición del programador. 
+Muchas veces se requiere incluir en el código fuente instrucciones auxiliares que permitan el seguimiento de la ejecución.
+Dentro de un proceso formal de aseguramiento de la calidad, puede ser asimilado al concepto de prueba unitaria.
